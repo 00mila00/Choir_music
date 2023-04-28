@@ -11,3 +11,5 @@ If you want to practice it locally you can download musc sheet or audio or even 
 
 If you don't know how to read notes there is other tab "learning notes" where you can play the sound (note) on the piano with given letter,
 and see the score below. For fun you also can simply play this piano :) by computer keyboard
+
+https://00mila00.github.io/Choir_music/
